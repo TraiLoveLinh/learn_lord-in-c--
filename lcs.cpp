@@ -58,5 +58,6 @@ int main(){
     s1 = "bacdb";
     s2 = "bdcb";
     longest_Common(s1, s2);
+    system("pause");
     return 0;    
 }
