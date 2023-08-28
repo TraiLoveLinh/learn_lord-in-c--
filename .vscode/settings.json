@@ -1,6 +1,9 @@
 {
     "cmake.configureOnOpen": false,
     "files.associations": {
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "string": "cpp",
+        "ctime": "cpp",
+        "iostream": "cpp"
     }
 }
